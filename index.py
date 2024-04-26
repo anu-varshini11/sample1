@@ -1,5 +1,4 @@
-a="EVENT"
-b=100
-c=5
-print(b+c)
-print(a)
+a=2
+b=9
+c=a*b
+print(c)
